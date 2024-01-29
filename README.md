@@ -43,10 +43,6 @@ This Flutter app demonstrates a range of powerful features tailored for efficien
 - **Bottom Navigation Bar**: The app features an elegant bottom navigation bar, simplifying navigation between various screens and enhancing user flow.
 
 ## Screenshots
-![Screenshot_2023-08-14-21-10-37-824_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/e71ddf9e-4651-4e05-8d7f-9b57dcb95248)
-![Screenshot_2023-08-14-21-11-10-135_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/16a18924-b7b8-4622-bf56-9c28a72e6b5d)
-![Screenshot_2023-08-14-21-11-42-297_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/4c14c268-623c-4e5e-94bc-2d9fb4250ddf)
-![Screenshot_2023-08-14-21-11-52-823_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/7d896286-403f-4247-b274-036c07c1f348)
 ![Screenshot_2023-08-14-21-12-43-255_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/cd729b18-44a2-4f35-bd26-d46e12d04659)
 ![Screenshot_2023-08-14-21-12-48-376_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/378c7fe0-4019-43b6-b231-6cf225fdf0d6)
 ![Screenshot_2023-08-14-21-12-56-553_com example job_search_app](https://github.com/Harshit-Kotecha/job_search_app/assets/67956129/9cbe77dc-649e-4793-a625-df7d7a66b657)
