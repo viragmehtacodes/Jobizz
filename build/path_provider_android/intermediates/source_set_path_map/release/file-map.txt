@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-0 C:\Users\virag.mehta\.gradle\caches\transforms-3\28f7c09298c1909ae03a4b57b0da77eb\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-1 C:\Users\virag.mehta\.gradle\caches\transforms-3\76128c3a898c32f8a7189e08311c28e8\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-2 C:\Users\virag.mehta\.gradle\caches\transforms-3\c52cf784d98cc7137f3804b34fe82428\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-3 C:\Users\virag.mehta\.gradle\caches\transforms-3\fedb6c4b676e3a417a13c771e0da856d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.2\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.2\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\path_provider_android\intermediates\merged_res\release

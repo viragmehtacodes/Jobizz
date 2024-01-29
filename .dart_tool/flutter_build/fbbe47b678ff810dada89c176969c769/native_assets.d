@@ -1,0 +1,1 @@
+ C:\\Users\\virag.mehta\\Desktop\\Project1\\job_search_app-master\\.dart_tool\\flutter_build\\fbbe47b678ff810dada89c176969c769\\native_assets.yaml: 

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.job_search_app-mergeReleaseResources-43:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\virag.mehta\\.gradle\\caches\\transforms-3\\e13686b43b807949415e891fa0546776\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+com.tekartik.sqflite-core-1.6.0-0 C:\Users\virag.mehta\.gradle\caches\transforms-3\28f7c09298c1909ae03a4b57b0da77eb\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-1 C:\Users\virag.mehta\.gradle\caches\transforms-3\76128c3a898c32f8a7189e08311c28e8\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\virag.mehta\.gradle\caches\transforms-3\c52cf784d98cc7137f3804b34fe82428\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-3 C:\Users\virag.mehta\.gradle\caches\transforms-3\fedb6c4b676e3a417a13c771e0da856d\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-main-4 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\sqflite\intermediates\merged_res\release

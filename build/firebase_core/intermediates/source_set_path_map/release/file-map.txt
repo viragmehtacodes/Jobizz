@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-0 C:\Users\virag.mehta\.gradle\caches\transforms-3\28f7c09298c1909ae03a4b57b0da77eb\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-1 C:\Users\virag.mehta\.gradle\caches\transforms-3\4305cc59e2ac83623f19281af8c445b0\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-2 C:\Users\virag.mehta\.gradle\caches\transforms-3\76128c3a898c32f8a7189e08311c28e8\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-3 C:\Users\virag.mehta\.gradle\caches\transforms-3\9ac6a067b9cd0cf3ffc078a256a816de\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-4 C:\Users\virag.mehta\.gradle\caches\transforms-3\c52cf784d98cc7137f3804b34fe82428\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-5 C:\Users\virag.mehta\.gradle\caches\transforms-3\fedb6c4b676e3a417a13c771e0da856d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.24.2\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\virag.mehta\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.24.2\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\virag.mehta\Desktop\Project1\job_search_app-master\build\firebase_core\intermediates\merged_res\release
