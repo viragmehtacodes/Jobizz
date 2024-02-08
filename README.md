@@ -50,7 +50,7 @@ This Flutter app demonstrates a range of powerful features tailored for efficien
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/Harshit-Kotecha/job_search_app.git`
+1. Clone the repository: `git clone https://github.com/viragmehtacodes/Jobizz.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
@@ -67,7 +67,7 @@ A list of key dependencies and packages used in this project:
 
 ## Contributing
 
-Contributions are welcome! If you encounter issues or wish to enhance the project, please open a pull request. Or you can reach out to me at harshitkotecha2000@gmail.com.
+Contributions are welcome! If you encounter issues or wish to enhance the project, please open a pull request. Or you can reach out to me at viragmehta2@gmail.com.
 
 ## License
 
